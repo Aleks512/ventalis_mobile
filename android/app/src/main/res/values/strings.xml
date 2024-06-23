@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">ventalisclientsmobile</string>
+    <string name="title_activity_main">ventalisclientsmobile</string>
+    <string name="package_name">com.ventalisclients.onrender</string>
+    <string name="custom_url_scheme">com.ventalisclients.onrender</string>
+</resources>

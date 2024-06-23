@@ -1,0 +1,9 @@
+{
+  "appId": "com.ventalisclients.onrender",
+  "appName": "ventalisclientsmobile",
+  "webDir": "dist",
+  "server": {
+    "url": "https://aleks512-project-v.fr/",
+    "cleartext": true
+  }
+}
